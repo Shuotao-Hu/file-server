@@ -1,0 +1,4 @@
+ip: localhost
+port: 8888
+path: "file/files/"
+const pathBre: "file/bre_pos/"
